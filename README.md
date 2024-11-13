@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/cypress-parallel.svg)](https://badge.fury.io/js/cypress-parallel)
+[![Build status](https://github.com/ykushch/cypress-parallel/actions/workflows/ci.yml/badge.svg)](https://github.com/ykushch/cypress-parallel/actions/workflows/ci.yml)
 
 # cypress-parallel
 
